@@ -32,3 +32,7 @@ RandomChineseNamesGeneratorTest.java
 
 Under src/test/java/edu/neu/coe/info6205/sort/elementary/
 InsertionSortMSDTest.java
+
+Report and Literature survey are on the top most directory of the repo
+
+Sorted Output files of all the algorithms are in "Sorted Output Files" folder in the top most directory of the repo
